@@ -4,7 +4,7 @@ Kolah is a mock social platform for group activities. In this app, you can find 
 
 This project was created for a "Fundamentals of Entrepreneurship" course, where my three person team was required to come up with a business idea and deliver a Business Model Canvas and MVP for it. Aside from the UI design and prototyping in Figma, the branding, including our logo, color palette, and graphical elements, was also designed by me.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Yg4huGlqJELoHLXNCpdbHY/Kolah?node-id=118-914&embed-host=share" allowfullscreen></iframe>
+<img src="Pages/Homepage.png" width="200" hspace="20"/> <img src="Pages/Personal-calendar.png" width="200" hspace="20"/> <img src="Pages/Filtering.png" width="200" hspace="20"/>
 
 [Design Board on Figma](https://www.figma.com/design/Yg4huGlqJELoHLXNCpdbHY/Kolah?node-id=118-914&t=DiTaqzqyRPyIsMsL-1)
 
